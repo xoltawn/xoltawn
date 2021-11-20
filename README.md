@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm behzad soltani</h1>
+<h1 align="center">Hi 👋, I'm Behzad Soltani</h1>
 <h3 align="center">A passionate flutter developer</h3>
 
 - 📫 How to reach me **xoltawn@gmail.com**
